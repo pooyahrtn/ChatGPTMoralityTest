@@ -1,0 +1,4 @@
+.venv
+runpodkey*
+node_modules/
+.env
